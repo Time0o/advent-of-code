@@ -30,5 +30,5 @@ if __name__ == '__main__':
 
         iterations_total += iterations
 
-        fmt = "Result has length {} after {} iterations"
+        fmt = "Result has length {} after {} iterations."
         print(fmt.format(len(seq), iterations))
